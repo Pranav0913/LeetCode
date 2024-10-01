@@ -21,4 +21,8 @@
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Pranav0913/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/Pranav0913/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Pranav0913/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/Pranav0913/LeetCode/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
