@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Pranav0913/LeetCode/tree/master/0007-reverse-integer) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pranav0913/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Pranav0913/LeetCode/tree/master/2383-add-two-integers) |
 ## Database
