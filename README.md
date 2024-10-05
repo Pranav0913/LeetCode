@@ -22,6 +22,7 @@
 | [1179-game-play-analysis-i](https://github.com/Pranav0913/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Pranav0913/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1734-bank-account-summary-ii](https://github.com/Pranav0913/LeetCode/tree/master/1734-bank-account-summary-ii) |
+| [1877-find-followers-count](https://github.com/Pranav0913/LeetCode/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Pranav0913/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 ## Bit Manipulation
 |  |
