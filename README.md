@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranav0913/LeetCode/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Pranav0913/LeetCode/tree/master/0067-add-binary) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pranav0913/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/Pranav0913/LeetCode/tree/master/2383-add-two-integers) |
 ## Database
@@ -27,5 +28,14 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Pranav0913/LeetCode/tree/master/0067-add-binary) |
 | [1054-complement-of-base-10-integer](https://github.com/Pranav0913/LeetCode/tree/master/1054-complement-of-base-10-integer) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pranav0913/LeetCode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Pranav0913/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
