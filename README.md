@@ -28,6 +28,7 @@
 | [1734-bank-account-summary-ii](https://github.com/Pranav0913/LeetCode/tree/master/1734-bank-account-summary-ii) |
 | [1877-find-followers-count](https://github.com/Pranav0913/LeetCode/tree/master/1877-find-followers-count) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Pranav0913/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [2041-the-latest-login-in-2020](https://github.com/Pranav0913/LeetCode/tree/master/2041-the-latest-login-in-2020) |
 ## Bit Manipulation
 |  |
 | ------- |
