@@ -51,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Pranav0913/LeetCode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Pranav0913/LeetCode/tree/master/0066-plus-one) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranav0913/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Hash Table
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranav0913/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Pranav0913/LeetCode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
