@@ -72,4 +72,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Pranav0913/LeetCode/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pranav0913/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Pranav0913/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
