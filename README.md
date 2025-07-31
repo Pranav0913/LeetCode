@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Pranav0913/LeetCode/tree/master/0067-add-binary) |
+| [0344-reverse-string](https://github.com/Pranav0913/LeetCode/tree/master/0344-reverse-string) |
 ## Simulation
 |  |
 | ------- |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Pranav0913/LeetCode/tree/master/0344-reverse-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Pranav0913/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Sorting
 |  |
